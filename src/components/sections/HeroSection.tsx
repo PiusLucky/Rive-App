@@ -45,7 +45,7 @@ function HeroSection() {
         </div>
 
         <div
-          className={`bg-white uppercase text-black px-[8px] py-[4px] font-bold ${tomorrow.className}`}
+          className={`bg-white uppercase text-black px-[8px] py-[4px] text-center font-bold ${tomorrow.className}`}
         >
           Build better products together
         </div>

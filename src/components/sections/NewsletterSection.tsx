@@ -6,7 +6,7 @@ function NewsletterSection() {
   return (
     <section className="bg-[#111111] ">
       <div className="flex flex-col items-center justify-center py-32">
-        <p className="text-[22px] font-bold text-white mb-4">
+        <p className="text-[22px] font-bold text-white mb-4 text-center">
           Start building beautiful interactive graphics
         </p>
         <MainButton
