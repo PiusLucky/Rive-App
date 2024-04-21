@@ -18,6 +18,14 @@ const config = {
       },
     },
     extend: {
+      colors: {
+        primary: "#A82481",
+         customGray: "#999999",
+         lightGray: "#CCCCCC",
+         dark: "#111111",
+         cardBg: "#262626",
+    
+      },
       keyframes: {
         "accordion-down": {
           from: { height: "0" },
