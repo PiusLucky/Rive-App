@@ -5,7 +5,7 @@ Rive website built with Next14, Shadcn, and Tailwind.
 
 
 # Youtube
-
+https://youtu.be/eK1qdM7Glro
 
 # ☁️ Deployed link
 https://rive-app-rho.vercel.app/
